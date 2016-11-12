@@ -6,7 +6,7 @@ dotfile
 Do following:
 
 * copy the ```.vim``` and ```.vimrc``` in your ```~/```
-* open vim input ```BundleInstall```
+* ```cd ~/.vim``` and ```tar zcf bundle.tar.gz && rm -f bundle.tar.gz```
 
 Vimscript reference:
 
