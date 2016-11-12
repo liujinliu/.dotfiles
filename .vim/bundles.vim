@@ -65,6 +65,7 @@ Bundle 'VimIM'
 Bundle 'EasyGrep'
 Bundle 'vim-airline/vim-airline'
 Bundle 'vim-airline/vim-airline-themes'
+Bundle 'vim-flake8'
 
 "-------------
 " Other Utils
@@ -112,5 +113,6 @@ Bundle 'Lokaltog/vim-distinguished'
 Bundle 'chriskempson/vim-tomorrow-theme'
 Bundle 'gosukiwi/vim-atom-dark'
 Bundle 'chriskempson/base16-vim'
+
 
 filetype plugin indent on     " required!
